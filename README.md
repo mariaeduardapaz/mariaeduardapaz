@@ -1,6 +1,6 @@
 ### Olá! eu sou a Maria Eduarda Paz.
 
-Desenvolvedora apaixonada por transformar ideias em soluções digitais completas. Atualmente, foco no desenvolvimento Front-end, aprimorando minhas habilidades em JavaScript, React e UX/UI Design, com o objetivo de expandir para o universo Full Stack.
+Olá! Me chamo Maria Eduarda, mas pode me chamar de Mari. Atualmente sou assistente administrativa e estudante de Administração, mas estou em transição de carreira para me tornar desenvolvedora full stack, com especialização em front-end.
 
 ##
 
