@@ -1,6 +1,12 @@
-### Olá! eu sou a Maria Eduarda Paz.
+### Olá! eu sou a Maria Eduarda.
 
-Olá! Me chamo Maria Eduarda, mas pode me chamar de Mari. Atualmente sou assistente administrativa e estudante de Administração, mas estou em transição de carreira para me tornar desenvolvedora full stack, com especialização em front-end.
+Sou apaixonada por tecnologia e atualmente estou em transição de carreira para me tornar uma desenvolvedora full stack.
+
+Neste momento, estou focada nos fundamentos de HTML e CSS, criando interfaces responsivas e acessíveis. Estou em constante evolução, estudando todos os dias para expandir meus conhecimentos em JavaScript, frameworks modernos, back-end e bancos de dados.
+
+Além da programação, curso Administração e tenho experiência no ambiente corporativo como assistente administrativa, o que me ajuda a enxergar a tecnologia como ferramenta estratégica para resolver problemas reais.
+
+Meu objetivo é unir visão técnica e pensamento de negócios para criar soluções completas e impactantes. Estou construindo um portfólio sólido que represente meu crescimento e minha dedicação.
 
 ##
 
